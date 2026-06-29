@@ -52,6 +52,7 @@ export default function DemoWidget({ toolResult, app, displayMode }) {
         <h2>Tool Output Data:</h2>
         <pre style={{
           background: '#f5f5f5',
+          color: '#1f2937',
           padding: '10px',
           borderRadius: '5px',
           overflow: 'auto',
